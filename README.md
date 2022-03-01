@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I didn't think I would like coding, but once I got something to work, I was hooked.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyGardner2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannyGardner2a&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
